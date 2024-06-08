@@ -60,7 +60,7 @@ module.exports = {
     HANDLERS: process.env.HANDLERS || '.,',
     STICKER_DATA: process.env.STICKER_DATA || "ɪɀꪊᴍιꫀ",
     BOT_NAME: process.env.BOT_NAME || '𝘲ꪊꫀꫀꪀ ꫀℓɪ𝘴α💋',
-    AUDIO_DATA: process.env.AUDIO_DATA === undefined || process.env.AUDIO_DATA === "private" ? 'ꪶ͢٭𝑺𝜣𝑼𝑹𝛢𝑽𝑲𝑳¹¹ꫂ;Raganork MD bot;https://i.imgur.com/P7ziVhr.jpeg' : process.env.AUDIO_DATA,
+    AUDIO_DATA: process.env.AUDIO_DATA === undefined || process.env.AUDIO_DATA === "private" ? 'ꪶ+91 8593848438ꫂ;izumie;https://te.legra.ph/file/fd18672014706be76af20.jpg' : process.env.AUDIO_DATA,
     TAKE_KEY: process.env.TAKE_KEY || '',
     MODE: process.env.MODE || 'public',
     WARN: process.env.WARN || '4',
